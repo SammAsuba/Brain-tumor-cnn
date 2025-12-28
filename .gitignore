@@ -1,0 +1,18 @@
+# Data
+data/
+Brain_tumor_dataset/
+
+# Models
+models/
+*.keras
+
+# Results
+results/
+*.csv
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
